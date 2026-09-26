@@ -1,0 +1,11 @@
+pandas
+numpy
+nltk
+spacy>=3.0
+scikit-learn
+matplotlib
+seaborn
+scipy
+wordcloud
+networkx
+openpyxl
